@@ -9,7 +9,6 @@ I love code!!
 * 🌍  I'm based in India                                                                                                                            
 * 🖥️  See my portfolio at [My Website](http://samee-portfolio.netlify.app/)
 * ✉️  You can contact me at [samiuzzama619@gmail.com](mailto:samiuzzama619@gmail.com)                                    
-<a href="http://www.github.com/SameeUzZama"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SameeUzZama&stroke=ef4444&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ef4444&currStreakLabel=6366f1&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 * 🧠  I'm learning Node JS, Next JS  
 * ⚡  I'm secretly Batman... but don't tell anyone
 
