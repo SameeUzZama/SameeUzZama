@@ -13,6 +13,9 @@ I love code!!
 * ⚡  I'm secretly Batman... but don't tell anyone
 
 
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+    <a href="https://github.com/SameeUzZama"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameeUzZama&langs_count=10&title_color=6366f1&text_color=ef4444&icon_color=84cc16&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 <a href="http://www.github.com/SameeUzZama"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SameeUzZama&stroke=ef4444&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ef4444&currStreakLabel=6366f1&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
 <a href="https://github.com/SameeUzZama" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameeUzZama&langs_count=10&title_color=6366f1&text_color=ef4444&icon_color=84cc16&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
